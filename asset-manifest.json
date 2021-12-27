@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactvalidatedform/static/css/main.2ab6dfce.css",
+    "main.js": "/reactvalidatedform/static/js/main.e7954df3.js",
+    "index.html": "/reactvalidatedform/index.html",
+    "main.2ab6dfce.css.map": "/reactvalidatedform/static/css/main.2ab6dfce.css.map",
+    "main.e7954df3.js.map": "/reactvalidatedform/static/js/main.e7954df3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ab6dfce.css",
+    "static/js/main.e7954df3.js"
+  ]
+}
